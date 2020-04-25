@@ -1,2 +1,2 @@
-# e26-tugas
-Tugas Kelompok E-26 DTS Programming
+# e26_DTS20
+Tugas Kelompok E-26 DTS Programming 2020
