@@ -113,8 +113,9 @@ header {
 }
 
 .logo {
-  width: 75px;
-  height: 75px;
+  padding-top: 10px;
+  width: auto;
+  height: 60px;
 }
 
 .header-left {
